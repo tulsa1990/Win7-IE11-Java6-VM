@@ -1,1 +1,1 @@
-# win7-ie11-java6-vm-setup
+# Windows 7 Internet Explorer 11 Java 6 Virtual Machine
